@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1439" started-at="2017-09-29T17:58:30Z" finished-at="2017-09-29T17:58:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1439" started-at="2017-09-29T17:58:30Z" finished-at="2017-09-29T17:58:31Z">
+      <class name="com.java.programs.ReadExcel">
+        <test-method status="PASS" signature="readDataFromExcel()[pri:0, instance:com.java.programs.ReadExcel@1efea79]" name="readDataFromExcel" duration-ms="1376" started-at="2017-09-29T23:28:30Z" finished-at="2017-09-29T23:28:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readDataFromExcel -->
+      </class> <!-- com.java.programs.ReadExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

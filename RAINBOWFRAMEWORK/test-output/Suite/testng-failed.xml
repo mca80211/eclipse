@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="browserName" value="chrome"/>
+  <parameter name="TestcaseNo" value="1"/>
+  <listeners>
+    <listener class-name="com.baseClasses.Listener"/>
+  </listeners>
+  <test name="Test(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="TestcaseNo" value="1"/>
+    <classes>
+      <class name="com.intake.testscripts.intakeLogin">
+        <methods>
+          <include name="afterClass"/>
+          <include name="captureDesc"/>
+          <include name="afterSuite"/>
+          <include name="login" invocation-numbers="0"/>
+          <include name="setUpSuiteDetails"/>
+          <include name="BeforeClass"/>
+        </methods>
+      </class> <!-- com.intake.testscripts.intakeLogin -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
