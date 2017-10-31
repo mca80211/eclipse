@@ -12,14 +12,12 @@ public class BaseClass {
 	public void launchBrowser(){
 		
 	}
-	@AfterSuite
-	public void ExcelResults() throws Exception{
-		Xl.generateReport("TestResults.xlsx");
-	}
+	
 	@Test
-	public void click(){
+	public void click() throws Exception{
 		
 		 Assert.assertEquals(1, 1);
+		 Xl.generateReport("TestResults.xlsx");
 	}
 
 }
