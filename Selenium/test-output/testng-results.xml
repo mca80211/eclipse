@@ -2,69 +2,69 @@
 <testng-results skipped="0" failed="0" ignored="4" total="15" passed="11">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="163" started-at="2017-10-06T17:36:45Z" finished-at="2017-10-06T17:36:45Z">
+  <suite name="Suite" duration-ms="156" started-at="2019-01-05T07:01:48Z" finished-at="2019-01-05T07:01:48Z">
     <groups>
       <group name="BAT">
-        <method signature="TestNG1.test4()[pri:0, instance:TestNG.TestNG1@1efea79]" name="test4" class="TestNG.TestNG1"/>
-        <method signature="TestNG1.test5()[pri:0, instance:TestNG.TestNG1@1efea79]" name="test5" class="TestNG.TestNG1"/>
-        <method signature="TestNG1.test6()[pri:0, instance:TestNG.TestNG1@1efea79]" name="test6" class="TestNG.TestNG1"/>
-        <method signature="TestNG1.test7()[pri:0, instance:TestNG.TestNG1@1efea79]" name="test7" class="TestNG.TestNG1"/>
+        <method signature="TestNG1.test4()[pri:0, instance:TestNG.TestNG1@d2cc05a]" name="test4" class="TestNG.TestNG1"/>
+        <method signature="TestNG1.test5()[pri:0, instance:TestNG.TestNG1@d2cc05a]" name="test5" class="TestNG.TestNG1"/>
+        <method signature="TestNG1.test6()[pri:0, instance:TestNG.TestNG1@d2cc05a]" name="test6" class="TestNG.TestNG1"/>
+        <method signature="TestNG1.test7()[pri:0, instance:TestNG.TestNG1@d2cc05a]" name="test7" class="TestNG.TestNG1"/>
       </group> <!-- BAT -->
       <group name="SMOKE">
-        <method signature="TestNG.test1()[pri:0, instance:TestNG.TestNG@f5e5e3]" name="test1" class="TestNG.TestNG"/>
-        <method signature="TestNG.test2()[pri:0, instance:TestNG.TestNG@f5e5e3]" name="test2" class="TestNG.TestNG"/>
-        <method signature="TestNG.test3()[pri:0, instance:TestNG.TestNG@f5e5e3]" name="test3" class="TestNG.TestNG"/>
-        <method signature="TestNG.test4()[pri:0, instance:TestNG.TestNG@f5e5e3]" name="test4" class="TestNG.TestNG"/>
-        <method signature="TestNG.test5()[pri:0, instance:TestNG.TestNG@f5e5e3]" name="test5" class="TestNG.TestNG"/>
-        <method signature="TestNG.test6()[pri:0, instance:TestNG.TestNG@f5e5e3]" name="test6" class="TestNG.TestNG"/>
-        <method signature="TestNG.test7()[pri:0, instance:TestNG.TestNG@f5e5e3]" name="test7" class="TestNG.TestNG"/>
+        <method signature="TestNG.test1()[pri:0, instance:TestNG.TestNG@4520ebad]" name="test1" class="TestNG.TestNG"/>
+        <method signature="TestNG.test2()[pri:0, instance:TestNG.TestNG@4520ebad]" name="test2" class="TestNG.TestNG"/>
+        <method signature="TestNG.test3()[pri:0, instance:TestNG.TestNG@4520ebad]" name="test3" class="TestNG.TestNG"/>
+        <method signature="TestNG.test4()[pri:0, instance:TestNG.TestNG@4520ebad]" name="test4" class="TestNG.TestNG"/>
+        <method signature="TestNG.test5()[pri:0, instance:TestNG.TestNG@4520ebad]" name="test5" class="TestNG.TestNG"/>
+        <method signature="TestNG.test6()[pri:0, instance:TestNG.TestNG@4520ebad]" name="test6" class="TestNG.TestNG"/>
+        <method signature="TestNG.test7()[pri:0, instance:TestNG.TestNG@4520ebad]" name="test7" class="TestNG.TestNG"/>
       </group> <!-- SMOKE -->
     </groups>
-    <test name="TestNG Tests" duration-ms="163" started-at="2017-10-06T17:36:45Z" finished-at="2017-10-06T17:36:45Z">
+    <test name="TestNG Tests" duration-ms="156" started-at="2019-01-05T07:01:48Z" finished-at="2019-01-05T07:01:48Z">
       <class name="TestNG.TestNG1">
-        <test-method status="PASS" signature="test4()[pri:0, instance:TestNG.TestNG1@1efea79]" name="test4" duration-ms="5" started-at="2017-10-06T23:06:45Z" finished-at="2017-10-06T23:06:45Z">
+        <test-method status="PASS" signature="test4()[pri:0, instance:TestNG.TestNG1@d2cc05a]" name="test4" duration-ms="15" started-at="2019-01-05T07:01:48Z" finished-at="2019-01-05T07:01:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test4 -->
-        <test-method status="PASS" signature="test5()[pri:0, instance:TestNG.TestNG1@1efea79]" name="test5" duration-ms="5" started-at="2017-10-06T23:06:45Z" finished-at="2017-10-06T23:06:45Z">
+        <test-method status="PASS" signature="test5()[pri:0, instance:TestNG.TestNG1@d2cc05a]" name="test5" duration-ms="0" started-at="2019-01-05T07:01:48Z" finished-at="2019-01-05T07:01:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test5 -->
-        <test-method status="PASS" signature="test6()[pri:0, instance:TestNG.TestNG1@1efea79]" name="test6" duration-ms="2" started-at="2017-10-06T23:06:45Z" finished-at="2017-10-06T23:06:45Z">
+        <test-method status="PASS" signature="test6()[pri:0, instance:TestNG.TestNG1@d2cc05a]" name="test6" duration-ms="0" started-at="2019-01-05T07:01:48Z" finished-at="2019-01-05T07:01:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test6 -->
-        <test-method status="PASS" signature="test7()[pri:0, instance:TestNG.TestNG1@1efea79]" name="test7" duration-ms="4" started-at="2017-10-06T23:06:45Z" finished-at="2017-10-06T23:06:45Z">
+        <test-method status="PASS" signature="test7()[pri:0, instance:TestNG.TestNG1@d2cc05a]" name="test7" duration-ms="0" started-at="2019-01-05T07:01:48Z" finished-at="2019-01-05T07:01:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test7 -->
       </class> <!-- TestNG.TestNG1 -->
       <class name="TestNG.TestNG">
-        <test-method status="PASS" signature="test1()[pri:0, instance:TestNG.TestNG@f5e5e3]" name="test1" duration-ms="23" started-at="2017-10-06T23:06:45Z" finished-at="2017-10-06T23:06:45Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:TestNG.TestNG@4520ebad]" name="test1" duration-ms="15" started-at="2019-01-05T07:01:48Z" finished-at="2019-01-05T07:01:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:TestNG.TestNG@f5e5e3]" name="test2" duration-ms="3" started-at="2017-10-06T23:06:45Z" finished-at="2017-10-06T23:06:45Z">
+        <test-method status="PASS" signature="test2()[pri:0, instance:TestNG.TestNG@4520ebad]" name="test2" duration-ms="16" started-at="2019-01-05T07:01:48Z" finished-at="2019-01-05T07:01:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method status="PASS" signature="test3()[pri:0, instance:TestNG.TestNG@f5e5e3]" name="test3" duration-ms="6" started-at="2017-10-06T23:06:45Z" finished-at="2017-10-06T23:06:45Z">
+        <test-method status="PASS" signature="test3()[pri:0, instance:TestNG.TestNG@4520ebad]" name="test3" duration-ms="0" started-at="2019-01-05T07:01:48Z" finished-at="2019-01-05T07:01:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method status="PASS" signature="test4()[pri:0, instance:TestNG.TestNG@f5e5e3]" name="test4" duration-ms="4" started-at="2017-10-06T23:06:45Z" finished-at="2017-10-06T23:06:45Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test4 -->
-        <test-method status="PASS" signature="test5()[pri:0, instance:TestNG.TestNG@f5e5e3]" name="test5" duration-ms="2" started-at="2017-10-06T23:06:45Z" finished-at="2017-10-06T23:06:45Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test5 -->
-        <test-method status="PASS" signature="test6()[pri:0, instance:TestNG.TestNG@f5e5e3]" name="test6" duration-ms="3" started-at="2017-10-06T23:06:45Z" finished-at="2017-10-06T23:06:45Z">
+        <test-method status="PASS" signature="test6()[pri:0, instance:TestNG.TestNG@4520ebad]" name="test6" duration-ms="15" started-at="2019-01-05T07:01:48Z" finished-at="2019-01-05T07:01:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test6 -->
-        <test-method status="PASS" signature="test7()[pri:0, instance:TestNG.TestNG@f5e5e3]" name="test7" duration-ms="2" started-at="2017-10-06T23:06:45Z" finished-at="2017-10-06T23:06:45Z">
+        <test-method status="PASS" signature="test5()[pri:0, instance:TestNG.TestNG@4520ebad]" name="test5" duration-ms="0" started-at="2019-01-05T07:01:48Z" finished-at="2019-01-05T07:01:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:TestNG.TestNG@4520ebad]" name="test4" duration-ms="0" started-at="2019-01-05T07:01:48Z" finished-at="2019-01-05T07:01:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test7()[pri:0, instance:TestNG.TestNG@4520ebad]" name="test7" duration-ms="0" started-at="2019-01-05T07:01:48Z" finished-at="2019-01-05T07:01:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test7 -->
