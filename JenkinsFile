@@ -16,8 +16,8 @@ pipeline {
             //sh "mvn -Dmaven.test.failure.ignore=true clean package"
 
             // To run Maven on a Windows agent, use
-            bat "cd ${ProjectName}"
-            bat "mvn -Dmaven.test.failure.ignore=true clean package"
+            //bat "cd ${ProjectName}"
+            bat "${ProjectName}/mvn -Dmaven.test.failure.ignore=true clean package"
          }
        }
    }
